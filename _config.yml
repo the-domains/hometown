@@ -1,7 +1,7 @@
 name: HomeTown
 favicon: null
-layout_spectrum: 0.5026667297352105
-typography_spectrum: 0.15497290482744575
+layout_spectrum: 1
+typography_spectrum: 0.23203
 cta:
   domain: null
   bucket: null
@@ -16,12 +16,12 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
-  brandStrength: 0.8752099317498505
+    - '#fefefe'
+    - '#000000'
+    - '#a6a8a5'
+    - '#d99a00'
+    - '#354a00'
+  brandStrength: 0.8125
   lightness: 0.542921383632347
   saturation: 0.7966945478692651
   rhythmicContrast: 0.10235616588033736
