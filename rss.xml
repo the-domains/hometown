@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[HomeTown]]></title>
         <description><![CDATA[HomeTown]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/hometown/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 24 Jan 2016 11:03:05 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 24 Jan 2016 11:03:24 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/hometown/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Beautiful House Overview ]]></title>
+            <description><![CDATA[<article><h1>Beautiful House Overview </h1><p>Beautiful House</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c1624ff08caac87e64333bb7ecac422ead4826bf.jpg"></article>]]></description>
+            <link>https://thegrid.ai/hometown/beautiful-house-overview/index.html</link>
+            <guid isPermaLink="false">909a6884-a138-4c7d-9273-9a9b0c8a9348</guid>
+            <pubDate>Sun, 24 Jan 2016 11:03:09 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c15f0da7-2481-464b-bb70-6dd6a8b54df1.jpg">]]></description>
-            <link>undefinedddaf8af9-4780-427f-b553-abd43f5dd6e7/index.html</link>
+            <link>https://thegrid.ai/hometown/ddaf8af9-4780-427f-b553-abd43f5dd6e7/index.html</link>
             <guid isPermaLink="false">ddaf8af9-4780-427f-b553-abd43f5dd6e7</guid>
             <pubDate>Sun, 24 Jan 2016 11:02:54 GMT</pubDate>
         </item>
